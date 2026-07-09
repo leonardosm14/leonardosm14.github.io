@@ -1,6 +1,6 @@
 const site = {
   name: 'Leonardo Marques',
-  role: 'Computer Science | Researcher Scholar | Embedded Systems',
+  role: 'Computer Science | Researcher | Embedded Systems',
   location: 'Florianópolis, Brazil',
   lattes: 'http://lattes.cnpq.br/3648929450398886',
   linkedin: 'https://www.linkedin.com/in/leonardo-de-sousa-marques',
