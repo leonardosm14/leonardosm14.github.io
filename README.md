@@ -25,10 +25,3 @@ To produce a static version of the site in `out/`:
 Next.js will generate static files in the `out/` folder using `next.config.js`.
 
 Then deploy the contents of `out/` to GitHub Pages.
-
-## Notes
-
-- The portrait image is served from `public/assets/pic.jpeg`.
-- Social links are configured in `data/site.js`.
-- Publications are stored in `data/publications.js`.
-- Use the language button in the top bar to switch between English and Portuguese.
