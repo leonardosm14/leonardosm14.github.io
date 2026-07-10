@@ -58,7 +58,7 @@ const publications = {
     },
     {
       title: 'Report on JPEG Pleno Model (JPLM) Maintenance',
-      authors: 'Ismael Seidel, Leonardo de Sousa Marques, Matheus F. Bigolin, André F. S. Fernandes',
+      authors: 'Ismael Seidel, <strong>Leonardo de Sousa Marques</strong>, Matheus F. Bigolin, André F. S. Fernandes',
       reference: 'ISO/IEC JTC 1/SC 29/WG 1 M112018',
       year: '2026',
       url: 'https://sd.iso.org/documents/open/ceaa314f-ba69-4685-8d0a-08b6701cbc8c'
