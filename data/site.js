@@ -5,7 +5,7 @@ const site = {
   lattes: 'http://lattes.cnpq.br/3648929450398886',
   linkedin: 'https://www.linkedin.com/in/leonardo-de-sousa-marques',
   about: {
-    en: `Hi, I'm Leonardo de Sousa Marques! Computer Science undergraduate at UFSC, working as a research fellow in immersive visual systems compression at the Embedded Computing Laboratory. Currently doing an intership in Embedded Systems at Hexagon's Agriculture Solutions. Comitee member of ABNT/CB-021/CE 021 000 029 "Codificação de Áudio, Imagem, Multimídia e Hipermídia" and ISO/IEC JTC1/SC29/WG1 (JPEG) Standardization Committee.`,
+    en: `Hi, I'm Leonardo de Sousa Marques! Computer Science undergraduate at UFSC, working as a research fellow in immersive visual systems compression at the Embedded Computing Laboratory. Currently doing an intership in Embedded Systems at Hexagon's Agriculture Solutions. Committe member of ABNT/CB-021/CE 021 000 029 "Codificação de Áudio, Imagem, Multimídia e Hipermídia" and ISO/IEC JTC1/SC29/WG1 (JPEG) Standardization Committee.`,
     pt: `Olá, me chamo Leonardo de Sousa Marques! Estudante de Ciência da Computação na UFSC, bolsista de iniciação científica em mídias imersivas no Laboratório de Computação Embarcada. Atualmente realizo estágio em Sistemas Embarcados na Hexagon's Agricultre Solutions. Membro dos comitês ABNT/CB-021/CE 021 000 029 "Codificação de Áudio, Imagem, Multimídia e Hipermídia" e ISO/IEC JTC1/SC29/WG1 (JPEG) Standardization Committee.`
   },
   socials: [
@@ -25,7 +25,7 @@ const site = {
       { title: 'Embedded Systems Test Analyst Intern, Hexagon', description: 'Software and Hardware in-the-loop testing and development.', date: '2026 – Present' },
       { title: 'Undergraduate Researcher, Embedded Computing Laboratory', description: 'Research in immersive visual systems and light field compression at the Embedded Computing Laboratory (ECL/UFSC).', date: '2025 – Present' },
       { title: 'Software Development Intern, Aprova Total', description: 'React, TypeScript, Python, MongoDB, AWS integrations, automation and technical documentation.', date: '2024 – 2025' },
-      { title: 'Electrical and Electronical Projects Intern, Energiluz', description: 'Design of electrical systems and lighting projects in Santa Catarina.', date: '2022 – 2023' }
+      { title: 'Electrical and Electronic Projects Intern, Energiluz', description: 'Design of electrical systems and lighting projects in Santa Catarina.', date: '2022 – 2023' }
     ],
     pt: [
       { title: 'Estágio em Sistemas Embarcados, Hexagon', description: 'Software e Hardware in-the-loop teste e desenvolvimento.', date: '2026 – Present' },
